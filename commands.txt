@@ -1,0 +1,11 @@
+
+1.user creation
+2.update password to specific user
+3.connect vm
+4.ping specific IP
+5.create directory 
+6.create file
+7.install software
+8 test command -> refer testcommand.sh
+9. "$?" it helps to store the return value from the function
+10. user deletion 
